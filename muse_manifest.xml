@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lianxi.com" resolutions="1x" timestamp="1500470097902">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="349776701" ref="index:2"/>
+    <file name="index.css" crc="4074708855" ref="index"/>
+    <file name="2.css" crc="37908067" ref="2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2"/>
+    <file name="museutils.js" crc="4216313831" ref="index:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2"/>
+    <file name="museconfig.js" crc="474374037" ref="index:2"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:2"/>
+  </folder>
+  <folder name="images">
+    <file name="532d1678e794350f05f4382ab976e16b.jpg" crc="4052163902" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240400-1404300q92452.jpg" crc="349622584" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="64446459201309011451332927614482565_007.jpg" crc="277651161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xt0xti-pf8ac2899fsa2iw==_8796093022386667828.jpg" crc="431646283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14-151104105529292.jpg" crc="368640119" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240400-1404300q92452-u750-fr.jpg" crc="4292209371" ref="index"/>
+  </folder>
+  <file name="index.html" crc="69348239" seo="true" mt="1500469837298" redirect="true"/>
+  <file name="2.html" crc="3809983484" seo="true" mt="1500469258456" redirect="true"/>
+</manifest>
